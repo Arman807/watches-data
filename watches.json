@@ -1,0 +1,37 @@
+[
+  {
+    "brand": "Rolex",
+    "model": "Submariner",
+    "case_material": "Stainless Steel",
+    "movement": "Automatic",
+    "price_usd": 8000
+  },
+  {
+    "brand": "Omega",
+    "model": "Speedmaster Professional",
+    "case_material": "Stainless Steel",
+    "movement": "Manual",
+    "price_usd": 6000
+  },
+  {
+    "brand": "TAG Heuer",
+    "model": "Carrera",
+    "case_material": "Titanium",
+    "movement": "Automatic",
+    "price_usd": 4500
+  },
+  {
+    "brand": "Seiko",
+    "model": "Presage",
+    "case_material": "Rose Gold Plated",
+    "movement": "Automatic",
+    "price_usd": 800
+  },
+  {
+    "brand": "Citizen",
+    "model": "Eco-Drive",
+    "case_material": "Stainless Steel",
+    "movement": "Solar",
+    "price_usd": 250
+  }
+]
